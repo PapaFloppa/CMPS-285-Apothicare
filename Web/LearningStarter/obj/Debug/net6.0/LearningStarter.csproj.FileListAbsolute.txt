@@ -1,0 +1,395 @@
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\appsettings.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\package.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\public\manifest.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\tsconfig.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.exe
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.deps.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.runtimeconfig.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.pdb
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Humanizer.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.AssemblyReference.cache
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfoInputs.cache
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfo.cs
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CoreCompileInputs.cache
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.LearningStarter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningStarter.props
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningStarter.props
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningStarter.props
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\scopedcss\bundle\LearningStarter.styles.css
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CopyComplete
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\refint\LearningStarter.dll
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.pdb
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.genruntimeconfig.cache
+C:\Users\quade\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\ref\LearningStarter.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\appsettings.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\package.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\public\manifest.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\tsconfig.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.exe
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.deps.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.runtimeconfig.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.pdb
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Humanizer.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\IdentityModel.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.AssemblyReference.cache
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfoInputs.cache
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfo.cs
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CoreCompileInputs.cache
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cs
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cache
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.LearningStarter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningStarter.props
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningStarter.props
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningStarter.props
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.build.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.development.json
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\scopedcss\bundle\LearningStarter.styles.css
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CopyComplete
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\refint\LearningStarter.dll
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.pdb
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.genruntimeconfig.cache
+D:\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\ref\LearningStarter.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\appsettings.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\package.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\public\manifest.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\tsconfig.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.exe
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.deps.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.runtimeconfig.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.pdb
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Humanizer.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\IdentityModel.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.AssemblyReference.cache
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfoInputs.cache
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfo.cs
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CoreCompileInputs.cache
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cs
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cache
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.LearningStarter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningStarter.props
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningStarter.props
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningStarter.props
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.build.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.development.json
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\scopedcss\bundle\LearningStarter.styles.css
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CopyComplete
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\refint\LearningStarter.dll
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.pdb
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.genruntimeconfig.cache
+C:\CMPS285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\ref\LearningStarter.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.AssemblyReference.cache
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfoInputs.cache
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfo.cs
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CoreCompileInputs.cache
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\refint\LearningStarter.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.pdb
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\appsettings.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\package.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\public\manifest.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\tsconfig.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.exe
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.deps.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.runtimeconfig.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.pdb
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Humanizer.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.LearningStarter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningStarter.props
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningStarter.props
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningStarter.props
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\scopedcss\bundle\LearningStarter.styles.css
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CopyComplete
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.genruntimeconfig.cache
+C:\Users\quade\Downloads\CMPS\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\ref\LearningStarter.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\appsettings.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\package.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\public\manifest.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\learning-starter-web\tsconfig.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.exe
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.deps.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.runtimeconfig.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\LearningStarter.pdb
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Humanizer.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\IdentityModel.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.AssemblyReference.cache
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfoInputs.cache
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.AssemblyInfo.cs
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CoreCompileInputs.cache
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cs
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.MvcApplicationPartsAssemblyInfo.cache
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.LearningStarter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningStarter.props
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningStarter.props
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningStarter.props
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.build.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\staticwebassets.development.json
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\scopedcss\bundle\LearningStarter.styles.css
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.csproj.CopyComplete
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\refint\LearningStarter.dll
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.pdb
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\LearningStarter.genruntimeconfig.cache
+C:\CMPS 285\CMPS285-F23-S01-G10\Web\LearningStarter\obj\Debug\net6.0\ref\LearningStarter.dll
