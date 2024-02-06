@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xKhpq9qmsw9c+M+i/tkLdNStU3PkZz6Z9ev6AhdEPp/WIgxk8+uwldSELgkESI1H2f7qLVFFhl+ufcY+A3NgQA==",
+  "dgSpecHash": "44sciF2DywDeWK6zKn1wDNI2ybLwxtgmLcYBHQuMbhiKlNGinfwJeRYayZnLwoTYIEFclZ7yyCeLYLKWyvpePA==",
   "success": true,
-  "projectFilePath": "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\LearningStarter.csproj",
+  "projectFilePath": "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\LearningStarter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quade\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\quade\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",

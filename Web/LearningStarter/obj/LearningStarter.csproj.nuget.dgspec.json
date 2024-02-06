@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\LearningStarter.csproj": {}
+    "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\LearningStarter.csproj": {}
   },
   "projects": {
-    "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\LearningStarter.csproj": {
+    "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\LearningStarter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\LearningStarter.csproj",
+        "projectUniqueName": "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\LearningStarter.csproj",
         "projectName": "LearningStarter",
-        "projectPath": "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\LearningStarter.csproj",
+        "projectPath": "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\LearningStarter.csproj",
         "packagesPath": "C:\\Users\\quade\\.nuget\\packages\\",
-        "outputPath": "C:\\CMPS 285\\CMPS285-F23-S01-G10\\Web\\LearningStarter\\obj\\",
+        "outputPath": "C:\\Users\\quade\\OneDrive\\Desktop\\Desktop\\Programing Stuff\\Projects\\CMPS_285_Apothicare\\Web\\LearningStarter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
